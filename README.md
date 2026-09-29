@@ -164,7 +164,9 @@ See License below.
 
 **Kurnia Aditya Reynaldi**
 
-Electrical Engineer | Embedded Systems | Control Systems
+Electrical Engineer | Embedded Systems | Control Systems | Electronics R&D
+
+Contributions, issues, and pull requests are welcome.
 
 ## License
 
